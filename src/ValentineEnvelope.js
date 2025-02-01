@@ -82,7 +82,7 @@ function ValentineEnvelope() {
         }}
       >
         <div className="envelope-front">
-          <h2>For You</h2>
+          <h2>For Tanvi </h2>
           <span className="heart">❤️</span>
         </div>
         <div className="envelope-back"></div>
